@@ -1,14 +1,7 @@
-circle {
-    width: 80px;
-    height: 80px;
-    border-radius: 50px;
-    margin: 10px;
-    color: royalblue;
-    display: flex;
-}
+
 
 table,th,td {
-    border: 2px solid darkblue;
+    border: 2px solid ;
     margin: 0 auto;
     border-radius: 20px;
     padding: 15px;
@@ -16,13 +9,13 @@ table,th,td {
 
 }
 table{
-    background-color: royalblue;
+    background-color: coral;
 }
 .red {
-   background-color: red;
+   background-color: palevioletred;
 }
 .yellow {
-    background-color: yellow;
+    background-color: cornflowerblue;
 }
 
 div [id="cell"]{
