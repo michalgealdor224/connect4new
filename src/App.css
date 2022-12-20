@@ -1,29 +1,29 @@
-
-
 table,th,td {
     border: 2px solid ;
     margin: 0 auto;
-    border-radius: 20px;
+    border-radius: 50px;
     padding: 15px;
     background-color: white;
+    height: 30px;
 
+}
+h1 {
+    color: cornflowerblue;
+    font: italic 1.2em "fira sans" ,Serif;
+    font-size: 40px;
+    text-align: center;
 }
 table{
     background-color: coral;
+    width: 40%;
 }
-.red {
+.purple {
    background-color: palevioletred;
 }
-.yellow {
+.blue {
     background-color: cornflowerblue;
 }
 
-div [id="cell"]{
-    width: 80px;
-    height: 80px;
-    border-radius: 50px;
-    margin: 10px;
-}
 
 
 
